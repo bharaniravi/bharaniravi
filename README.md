@@ -4,34 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 bharaniravi6325@gmail.com
 
-<!---
 <h1 align="center">Hi 👋, I'm Bharani</h1>
 <h3 align="center">AI Enthusiast | Data Science Explorer | Aspiring Innovator</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharaniravi&label=Profile%20views&color=0e75b6&style=flat" alt="bharaniravi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharaniravi" alt="bharaniravi" /></a> </p>
-
-- 🔭 I’m currently working on **zymar code**
-
-- 🌱 I’m currently learning **MERN SATCK**
-
-- 👯 I’m looking to collaborate on **Artificial intelligence intigrated projects**
-
-- 🤝 I’m looking for help with **Web Development**
-
-- 📫 How to reach me **bharaniravi6325@gmail.com**
-
-- ⚡ Fun fact **I believe every great idea starts with curiosity and ends with innovation! 🚀**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h1 align="center">Hi 👋, I'm Bharani</h1>
-<h3 align="center">AI Enthusiast | Data Science Explorer | Aspiring Innovator</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharaniravi&label=Profile%20views&color=0e75b6&style=flat" alt="bharaniravi" /> </p>
 
 - 🔭 I’m currently working on **zymar code**
 
