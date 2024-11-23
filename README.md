@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 📫 How to reach me **bharaniravi6325@gmail.com**
+- 📫 Reach me on email **bharaniravi6325@gmail.com**
 
 - ⚡ Fun fact **I believe every great idea starts with curiosity and ends with innovation! 🚀**
 
